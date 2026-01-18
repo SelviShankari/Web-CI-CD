@@ -1,4 +1,4 @@
 function changeText() {
     document.getElementById("message").innerText =
-        "🎉 JavaScript is working!";
+        "🎉 January is more than half over already! ";
 }
